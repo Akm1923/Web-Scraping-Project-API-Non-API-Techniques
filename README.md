@@ -33,10 +33,5 @@ This project showcases two powerful web scraping techniques to extract meaningfu
 
 ---
 
-## 🔮 **Future Improvements**  
-🔹 Enhance error handling for improved reliability  
-🔹 Implement multi-threading for faster scraping  
-🔹 Add more data fields like funding details, founders, etc.  
 
----
 
